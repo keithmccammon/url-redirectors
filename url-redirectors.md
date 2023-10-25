@@ -9,7 +9,9 @@
 | ow.ly           | hootsuite.com          |
 | snip.ly         | sniply.io              |
 | t.co            | twitter.com            |
+| t.ly            | t.ly                   |
 | t2m.io          | t2m.io                 |
 | tiny.cc         | tiny.cc                |
 | tinyurl.com     | tinyurl.com            |
+| v.gd            | v.gd                   |
 | y2u.be          | y2u.be                 |
