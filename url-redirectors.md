@@ -6,6 +6,7 @@
 | cut.ly          | cut.ly                 |
 | goo.gl          | (Discontinued by Google, previously google.com) |
 | is.gd           | is.gd                  |
+| kutt.it         | kutt.it                |
 | ow.ly           | hootsuite.com          |
 | snip.ly         | sniply.io              |
 | t.co            | twitter.com            |
